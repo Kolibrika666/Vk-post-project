@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(180deg, #194974 0%, #4f79a1 100%);
+  height: 70px;
+}
+
+header img,
+button {
+  height: 100%;
+}
+
+header button {
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid #d8e0e7;
+  color: #d8e0e7;
+  font-size: 20px;
+}

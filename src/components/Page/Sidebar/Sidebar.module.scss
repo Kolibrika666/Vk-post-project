@@ -1,0 +1,30 @@
+.sidebar {
+  width: 260px;
+  height: 100vh;
+  border: 1px solid #ccd1d5;
+  padding: 2px;
+}
+
+.sidebar button {
+  padding: 15px;
+  margin: 5px;
+  background: linear-gradient(180deg, #194974 0%, #4f79a1 100%);
+  color: #f1f4fa;
+  font-size: 19px;
+  border: none;
+  border-radius: 5px;
+}
+.loginForm {
+  width: 222px;
+  color: #646464;
+  display: flex;
+  flex-direction: column;
+  padding: 0px;
+  margin: 5px;
+  font-size: 22px;
+}
+
+.loginForm input {
+  height: 30px;
+  border: 1px solid #646464;
+}
